@@ -18,6 +18,7 @@ I created the application to replace browser pluggins because they either failed
 
 
 ## Usage
+<br>
 	0. download sources files and install:<br>
 > npm install<br>
 <br>
