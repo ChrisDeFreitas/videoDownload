@@ -23,7 +23,7 @@ I created the application to replace browser pluggins because they either failed
 > npm install<br>
 <br>
 	1. get a youtube video url, try it with my new favorite band:<br>
-	https://www.youtube.com/watch?v=iOHkyZ62jjQ&list=PLZE9LGuGzyzYFIbGXH0chia8agBBNgBgi<br>
+	https://www.youtube.com/watch?v=iOHkyZ62jjQ<br>
 <br>
 	2. Run the app with any of the following methods:<br>
 > npm test<br>
