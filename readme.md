@@ -49,10 +49,10 @@ I created the application to replace browser pluggins because they either failed
 
 ## Thanks to
 
-https://ffmpeg.org
-https://www.npmjs.com/package/readline-sync
-https://www.npmjs.com/package/sanitize-filename
-https://www.npmjs.com/package/ytdl-core
+https://ffmpeg.org<br>
+https://www.npmjs.com/package/readline-sync<br>
+https://www.npmjs.com/package/sanitize-filename<br>
+https://www.npmjs.com/package/ytdl-core<br>
 https://youtube.com
 
 
