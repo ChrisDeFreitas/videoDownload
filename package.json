@@ -1,0 +1,24 @@
+{
+  "name": "videodownload",
+  "version": "0.0.1",
+  "description": "Nodejs console application to download Youtube videos",
+  "author": "Chris DeFreitas, chrisd@europa.com",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+	"repository" :
+	  { "type" : "git",
+	    "url" : "https://github.com/ChrisDeFreitas/videoDownload"
+  },
+  "directories": {
+  	"bin": "bin"
+  },
+  "os": "win",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "sanitize-filename": "^1.6.1",
+    "ytdl-core": "^0.29.2"
+  }
+}
